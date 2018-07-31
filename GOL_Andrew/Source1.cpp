@@ -9,7 +9,7 @@ using namespace std;
 
 /*Game Of Life*/
 
-int a(0);//temporary x position
+int a(0);//temporary x position	
 int b(0);//temporary y position
 int pos[mapsz][mapsz] = { {0},{0} };//2-dimentional array for cartesian croodinate system
 
